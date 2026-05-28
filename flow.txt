@@ -1,0 +1,7 @@
+VedaAI flow:
+
+1. Frontend lives in `client/src`
+2. Backend lives in `server`
+3. Root `npm run dev` starts both apps
+4. Vite serves the React app on port 5173
+5. Express serves the API on port 3000

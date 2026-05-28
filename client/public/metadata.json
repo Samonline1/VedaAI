@@ -1,0 +1,6 @@
+{
+  "name": "AI Assignment Generator Dashboard",
+  "description": "An AI-powered assignment and exam paper generator dashboard with customized structure config, live progress status pipeline, polished printable papers, and PDF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
